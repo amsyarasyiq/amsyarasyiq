@@ -4,16 +4,16 @@ publishDate: "20 July 2025"
 description: "A reflection on Wintry's evolving goals, its influence on other client mods, and the steps being taken to restore its distinctiveness in the modding community."
 ---
 
-Being 'distinctive' has always been a part of Wintry's goal. Wintry's current project highlights some differences from other existing projects:
+Being 'distinctive' has always been part of Wintry's philosophy. The current Wintry does a few things differently from most other client mods:
 - Simple philosophy
 - First-party plugin experience
 - Native interoperability
 
-Although Wintry doesn't really focus on performance, it is much less modular than other client mods. Modularity costs performance, and optimizations can be done easily when everything is first-party.
+While performance isn't really part of Wintry's focus, its lower modularity naturally leads to better performance. Modularity often causes overhead, and optimizations are simpler when everything is first-party.
 
 You won't get most of these benefits with other client mods before, back when Wintry started. Even Revenge Rewrite had some really fancy plugin system that involved key-signing, which was a tad bit complicated (it's not wrong, just complex), which gave me another reason to build my own client mod.
 
-Plus, Wintry is an experimental client mod with a vastly different philosophy. If you were thinking: "why can't everyone just work together and focus on one client mod?", the answer would be: we have different problems to solve. Wintry was never made to compete, neither were Bunny or Pyoncord. It's my fun little playground to work on a mod with a different philosophy.
+Plus, Wintry is an experimental client mod with a vastly different philosophy. If you've ever wondered: "why can't everyone just work together and focus on one client mod?", my answer would be we have different problems to solve. Wintry was never made to compete, it's my fun little playground to work on a mod with a different philosophy.
 
 ## Loss of distinction
 The major part of the 'distinctiveness' that I mentioned above has already been adopted by Revenge Next. Palm, the lead developer at Revenge, has shown constant commitment to their newest rewrite, where their goals clearly align with Wintry's. For instance, from an announcement in Revenge's Discord server:
@@ -80,4 +80,4 @@ It's time to make Wintry distinctive again, by redefining Wintry's goals. This t
 
 The implementation details won't be revealed for now, but the great news is, some parts of it would not only be beneficial for Wintry but the entire DiscordRN modding community (including Revenge, of course)! Still, I am uncertain if I will have enough time to pull this off, but at least this will maintain Wintry's distinctiveness.
 
-If I excite you, I should let you know in advance that distinctiveness doesn't necessarily mean it is better. In fact, most of the 'distinctiveness' won't be felt by the user, but rather in the way we do things to achieve the same goal. I'll re-emphasize that Wintry is a fun experimental project and is likely to stay that way in the long term.
+If I excite you, I should let you know in advance that distinctiveness doesn't necessarily mean it is better. In fact, most of the 'distinctiveness' won't be felt by the user, they're more about how things work under the hood. I'll re-emphasize that Wintry is a fun experimental project and is likely to stay that way in the long term.
