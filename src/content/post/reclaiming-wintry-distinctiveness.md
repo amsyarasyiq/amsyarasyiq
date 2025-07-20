@@ -5,7 +5,7 @@ description: "A reflection on Wintry's evolving goals, its influence on other cl
 ---
 
 Being 'distinctive' has always been a part of Wintry's goal. Wintry's current project highlights some differences from other existing projects:
-- Simplistic and easy to understand
+- Simple philosophy
 - First-party plugin experience
 - Native interoperability
 
