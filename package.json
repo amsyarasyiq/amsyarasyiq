@@ -1,6 +1,6 @@
 {
 	"name": "amsyarasyiq",
-	"version": "6.7.0",
+	"private": true,
 	"scripts": {
 		"dev": "astro dev",
 		"start": "astro dev",
