@@ -1,12 +1,3 @@
-## Hello there! 👋
-
-- You might know me as Pylix (or @pylixonly), or maybe by my real name — either way, it's still me.
-- My birthday’s on December 23rd — feel free to drop a wish when the time comes! 🎂
-- I enjoy reverse-engineering apps and video games just for fun.
-- I like tinkering with tech — software, hardware, or anything in between.
-- When I’m not breaking things, I’m probably procrastinating something important.
-- A certified professional idiot, stupid beyond repair — call it what you like!
-
 ### Languages
 
 <p align="left">
